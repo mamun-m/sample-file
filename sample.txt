@@ -24,3 +24,4 @@ git featured 2 is working now here.
 featured 4 is working .
 featured 5 is working now .
 featured 6 is working here .
+featured 7 is working here .
