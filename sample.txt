@@ -16,3 +16,5 @@ logo alignment is centered .
 sample-file text is here now .
 
 second time text is edit here now .
+
+git featured branch is edit text here right now .
