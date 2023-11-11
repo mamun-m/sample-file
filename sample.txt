@@ -14,6 +14,7 @@ logo alignment is centered
 logo alignment is centered . 
 
 sample-file text is here now .
+git featured3 working now here .
 
 second time text is edit here now .
 
