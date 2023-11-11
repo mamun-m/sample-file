@@ -25,3 +25,4 @@ featured 4 is working .
 featured 5 is working now .
 featured 6 is working here .
 featured 7 is working here .
+featured 8  is done his working derektory.
